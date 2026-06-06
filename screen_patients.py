@@ -3,7 +3,7 @@ from groq import Groq
 import json
 import re
 
-GROQ_API_KEY = "GROQ_API_KEY = "YOUR_KEY_PLACEHOLDER"
+GROQ_API_KEY = "YOUR_KEY_PLACEHOLDER"
 
 client = Groq(api_key=GROQ_API_KEY)
 
