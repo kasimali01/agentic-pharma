@@ -56,7 +56,9 @@ python run_pipeline.py
 - AI reasoning is transparent — every eligibility decision includes criterion-level pass/fail with explanation
 - SAS outputs are regulatory-grade descriptive statistics matching FDA submission standards
 
-## Built for
+## Author
 
-Demo for Sridhar Byrappa, CEO — Agentic Pharma
-Clinical trial automation using LLMs as the intelligence layer
+Kasim Ali — Clinical SAS & R Programmer
+- Portfolio: https://kasim-ali-sas-programmer-yg7ud0q.gamma.site
+- LinkedIn: https://linkedin.com/in/kasimali2025
+- Email: kasimali.global3@gmail.com
