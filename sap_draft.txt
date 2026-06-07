@@ -1,0 +1,64 @@
+**Statistical Analysis Plan (SAP) for Study DIAB2024**
+
+## 1. Introduction
+
+This Statistical Analysis Plan (SAP) outlines the statistical methods and procedures for the analysis of data from Study DIAB2024, a clinical trial designed to evaluate the efficacy and safety of an investigational product in patients with diabetes. The SAP is written in accordance with the International Council for Harmonisation (ICH) E9 guidelines and is intended to ensure that the analysis of the study data is conducted in a rigorous and unbiased manner.
+
+## 2. Study Objectives
+
+The primary objective of Study DIAB2024 is to evaluate the efficacy of the investigational product in reducing HbA1c levels from baseline to Week 26. The secondary objectives include evaluating the safety and tolerability of the investigational product.
+
+## 3. Study Design
+
+Study DIAB2024 is a randomized, controlled trial with a 1:1 treatment ratio. Patients will be randomized to receive either the investigational product or a comparator treatment. The study will consist of a screening period, a treatment period, and a follow-up period. The primary endpoint will be measured at Week 26.
+
+## 4. Population
+
+The study will include three populations:
+- **Intent-to-Treat (ITT) Population**: All randomized patients who receive at least one dose of study medication.
+- **Safety Population**: All patients who receive at least one dose of study medication.
+- **Per Protocol (PP) Population**: All patients in the ITT population who complete the study without any major protocol deviations.
+
+## 5. Handling of Missing Data
+
+Missing data will be handled using the Mixed Model for Repeated Measures (MMRM) approach. This method will account for the correlation between repeated measurements and provide unbiased estimates of treatment effects in the presence of missing data.
+
+## 6. Statistical Methods
+
+### 6.1 Primary Analysis
+
+The primary analysis will be conducted using Analysis of Covariance (ANCOVA) with treatment, baseline HbA1c, and region as covariates. The primary endpoint, change from baseline in HbA1c at Week 26, will be compared between the investigational product and the comparator treatment.
+
+### 6.2 Secondary Analyses
+
+Secondary analyses will include:
+- Comparison of the incidence of adverse events between treatment groups.
+- Comparison of the change from baseline in other efficacy endpoints between treatment groups.
+
+### 6.3 Statistical Significance
+
+All statistical tests will be two-sided, and the significance level (alpha) will be set at 0.05. No adjustments will be made for multiple comparisons.
+
+### 6.4 Sample Size
+
+The study will enroll approximately 200 patients, with a 1:1 treatment ratio.
+
+## 7. Appendices
+
+### Appendix A: Study Schema
+
+A detailed schema of the study design, including the screening period, treatment period, and follow-up period, will be provided.
+
+### Appendix B: Statistical Tables and Figures
+
+A list of statistical tables and figures that will be generated for the study report will be provided.
+
+### Appendix C: Data Management
+
+A description of the data management procedures, including data collection, data cleaning, and data quality control, will be provided.
+
+### Appendix D: References
+
+A list of references cited in the SAP will be provided.
+
+By following this SAP, the analysis of the Study DIAB2024 data will be conducted in a rigorous and unbiased manner, ensuring that the results are reliable and generalizable.

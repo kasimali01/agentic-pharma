@@ -1,0 +1,35 @@
+[
+  {
+    "SubjectID": "DIAB2024-001-002",
+    "Visit": "Baseline",
+    "VisitDate": "2024-01-16",
+    "HbA1c": 7.5,
+    "BP_Systolic": 999,
+    "BP_Diastolic": 85,
+    "AE_Reported": "No",
+    "Query": "Blood Pressure out of plausible range",
+    "Severity": "CRITICAL"
+  },
+  {
+    "SubjectID": "DIAB2024-001-001",
+    "Visit": "Week12",
+    "VisitDate": "2024-04-01",
+    "HbA1c": 6.9,
+    "BP_Systolic": 115,
+    "BP_Diastolic": 76,
+    "AE_Reported": "Yes",
+    "Query": "AE reported flag needs confirmation",
+    "Severity": "MODERATE"
+  },
+  {
+    "SubjectID": "DIAB2024-001-003",
+    "Visit": "Week12",
+    "VisitDate": "2024-04-03",
+    "HbA1c": 6.6,
+    "BP_Systolic": 115,
+    "BP_Diastolic": 75,
+    "AE_Reported": "Yes",
+    "Query": "AE reported flag needs confirmation",
+    "Severity": "MODERATE"
+  }
+]

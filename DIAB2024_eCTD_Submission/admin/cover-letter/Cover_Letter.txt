@@ -1,0 +1,30 @@
+[Company Logo]
+[Company Name]
+[Address]
+[City, State, ZIP]
+[Date]
+
+Food and Drug Administration
+Center for Drug Evaluation and Research
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+
+Dear Sir/Madam,
+
+Re: New Drug Application for Dulaglutide 1.5mg for the Treatment of Type 2 Diabetes
+
+We are submitting this New Drug Application (NDA) for dulaglutide 1.5mg, a glucagon-like peptide-1 receptor agonist, for the treatment of Type 2 diabetes. This application is based on the results of a comprehensive clinical development program, including the pivotal study DIAB2024.
+
+Study DIAB2024 was a randomized, double-blind, placebo-controlled trial that evaluated the efficacy and safety of dulaglutide 1.5mg in patients with Type 2 diabetes. The study demonstrated significant improvements in glycemic control, as measured by HbA1c, and a favorable safety profile. The results of this study, along with other supporting data, are included in this NDA submission.
+
+This application includes all necessary documentation, including chemistry, manufacturing, and controls (CMC) information, nonclinical and clinical study reports, and labeling. We believe that the data submitted in this application demonstrate the safety, efficacy, and quality of dulaglutide 1.5mg for the treatment of Type 2 diabetes.
+
+We respectfully request that the FDA accept this NDA submission for review. We are available to respond to any questions or concerns that may arise during the review process. Please do not hesitate to contact us if additional information is required.
+
+Thank you for your attention to this matter. We look forward to the opportunity to discuss this application with you further.
+
+Sincerely,
+
+[Your Name]
+Regulatory Affairs Specialist
+[Company Name]

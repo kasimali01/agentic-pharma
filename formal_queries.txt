@@ -1,0 +1,22 @@
+Subject: Query for Subject DIAB2024-001-002
+Dear Site Coordinator,
+
+We have identified a potential issue with the data submitted for Subject DIAB2024-001-002 at the Baseline visit. The blood pressure reading of 999 for systolic and 85 for diastolic is outside of the plausible range. Could you please review this data point and provide clarification or correction as necessary to ensure the accuracy of the data?
+
+Thank you for your prompt attention to this matter.
+
+
+Subject: Query for Subject DIAB2024-001-001
+Dear Site Coordinator,
+
+We have identified a potential issue with the data submitted for Subject DIAB2024-001-001 at the Week12 visit. The AE reported flag is marked as "Yes", but we require confirmation to ensure the accuracy of the data. Could you please review the adverse event reports for this subject and confirm whether an adverse event was indeed reported at this visit?
+
+Thank you for your prompt attention to this matter.
+
+
+Subject: Query for Subject DIAB2024-001-003
+Dear Site Coordinator,
+
+We have identified a potential issue with the data submitted for Subject DIAB2024-001-003 at the Week12 visit. The AE reported flag is marked as "Yes", but we require confirmation to ensure the accuracy of the data. Could you please review the adverse event reports for this subject and confirm whether an adverse event was indeed reported at this visit?
+
+Thank you for your prompt attention to this matter.

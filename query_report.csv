@@ -1,0 +1,4 @@
+SubjectID,Visit,VisitDate,HbA1c,BP_Systolic,BP_Diastolic,AE_Reported,Query,Severity
+DIAB2024-001-002,Baseline,2024-01-16,7.5,999,85,No,Blood Pressure out of plausible range,CRITICAL
+DIAB2024-001-001,Week12,2024-04-01,6.9,115,76,Yes,AE reported flag needs confirmation,MODERATE
+DIAB2024-001-003,Week12,2024-04-03,6.6,115,75,Yes,AE reported flag needs confirmation,MODERATE

@@ -1,0 +1,54 @@
+**Site Visit Report: Site_002**
+
+Introduction:
+This site visit report is based on the review of the site's performance data as of the current date. The purpose of this report is to identify risk factors, provide recommendations for corrective actions, and outline a timeline for implementation.
+
+Site Identifier: Site_002
+
+Identified Risk Factors:
+The site has been identified as high risk due to the following factors:
+- High number of open queries (5)
+- Presence of protocol deviations (2)
+- Inadequate AE reporting rate (0.08)
+- Lack of drug accountability (No)
+- High QueryScore (5) and DeviationScore (4)
+
+Recommended Corrective Actions:
+1. The site should immediately review and respond to all open queries to ensure data accuracy and completeness.
+2. The site should conduct a thorough review of their protocol deviation procedures to prevent future occurrences.
+3. The site should develop and implement a plan to improve AE reporting rates, including training for site staff.
+4. The site should establish a system for maintaining accurate drug accountability records.
+5. The site should provide training to staff on GCP and the protocol to prevent future deviations.
+
+Timeline:
+- The site is expected to provide a corrective action plan to the sponsor within 7 days of receipt of this report.
+- The site should complete all corrective actions within 30 days of receipt of this report.
+- A follow-up site visit will be conducted within 60 days of receipt of this report to verify implementation of corrective actions.
+
+
+**Site Visit Report: Site_004**
+
+Introduction:
+This site visit report is based on the review of the site's performance data as of the current date. The purpose of this report is to identify risk factors, provide recommendations for corrective actions, and outline a timeline for implementation.
+
+Site Identifier: Site_004
+
+Identified Risk Factors:
+The site has been identified as high risk due to the following factors:
+- High number of open queries (10)
+- Presence of protocol deviations (4)
+- Inadequate AE reporting rate (0.12)
+- Lack of drug accountability (No)
+- High QueryScore (10) and DeviationScore (8)
+
+Recommended Corrective Actions:
+1. The site should immediately review and respond to all open queries to ensure data accuracy and completeness.
+2. The site should conduct a thorough review of their protocol deviation procedures to prevent future occurrences.
+3. The site should develop and implement a plan to improve AE reporting rates, including training for site staff.
+4. The site should establish a system for maintaining accurate drug accountability records.
+5. The site should provide training to staff on GCP and the protocol to prevent future deviations.
+
+Timeline:
+- The site is expected to provide a corrective action plan to the sponsor within 7 days of receipt of this report.
+- The site should complete all corrective actions within 30 days of receipt of this report.
+- A follow-up site visit will be conducted within 60 days of receipt of this report to verify implementation of corrective actions.

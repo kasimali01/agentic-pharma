@@ -1,0 +1,10 @@
+{
+  "study_id": "DIAB2024",
+  "primary_endpoint": "HbA1c change from baseline at Week 26",
+  "primary_analysis": "ANCOVA with treatment baseline HbA1c and region as covariates",
+  "populations": ["ITT", "Safety", "PP"],
+  "missing_data": "MMRM",
+  "alpha": 0.05,
+  "n": 200,
+  "ratio": "1:1"
+}
