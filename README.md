@@ -1,4 +1,4 @@
-# Agentic Pharma Demo
+# Agentic Pharma
 
 Automated clinical trial pipeline using LLMs + R + SAS.
 
@@ -49,7 +49,7 @@ Automated clinical trial pipeline using LLMs + R + SAS.
 python run_pipeline.py
 ```
 
-## Demo highlights
+## highlights
 
 - Full pipeline runs end to end in under 3 minutes with one command
 - Uses pharma-standard terminology: adverse events, CSR, inclusion/exclusion criteria, ICH E3
